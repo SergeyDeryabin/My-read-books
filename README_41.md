@@ -1,8 +1,8 @@
-# # Сорок(и более) штрихов о прочитанных(переведённых) книгах. 
-Штрих сорок первый. 2022 год.
+### Сорок(и более) штрихов о прочитанных(переведённых) книгах. 
+### Штрих сорок первый. 2022 год.
 
 # Андреа Пассалья. Книга рецептов по JavaScript-библиотеке Vue.js 2. Постройте современные, интерактивные веб-приложения с использованием JavaScript-библиотеки Vue.js.
-# (Andrea Passaglia. Vue.js 2 Cookbook. Build modern, interactive web applications with Vue.js, ISBN 978-1-78646-809-3, Copyright © 2017 Packt Publishing)
+## (Andrea Passaglia. Vue.js 2 Cookbook. Build modern, interactive web applications with Vue.js, ISBN 978-1-78646-809-3, Copyright © 2017 Packt Publishing)
 
 p.s.
 

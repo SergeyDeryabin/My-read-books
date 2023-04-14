@@ -1,8 +1,8 @@
-# Сорок штрихов о прочитанных(переведённых) книгах. 
-# Штрих сороковой. 2022 год.
+### Сорок штрихов о прочитанных(переведённых) книгах. 
+### Штрих сороковой. 2022 год.
 
 # Гийом Шо. Проекты Vue.js 2-веб-разработки. Изучите JavaScript-библиотеку Vue.js путем построения 6 веб-приложений.
-# (Guillaume Chau. Vue.js 2 Web Development Projects. Learn Vue.js by building 6 web apps., ISBN 978-1-78712-746-3, Copyright © 2017 Packt Publishing)
+## (Guillaume Chau. Vue.js 2 Web Development Projects. Learn Vue.js by building 6 web apps., ISBN 978-1-78712-746-3, Copyright © 2017 Packt Publishing)
 
 p.s.
 

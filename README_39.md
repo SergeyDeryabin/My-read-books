@@ -1,8 +1,8 @@
-# Сорок штрихов о прочитанных(переведённых) книгах. 
-# Штрих тридцать девятый. 2022 год.
+### Сорок штрихов о прочитанных(переведённых) книгах. 
+### Штрих тридцать девятый. 2022 год.
 
 # Дэнни Уолс. Мастерство в программировании для ОС iOS 12.Третий выпуск. Постройте профессионального уровня приложения для ОС iOS, на языке программирования Swift и в IDE-среде разработки Xcode 10.
-# (Donny Wals. Mastering iOS 12 Programming. Third Edition. Build professional-grade iOS applications with Swift and Xcode 10., ISBN 978-1-78913-320-2, Copyright © 2018 Packt Publishing)
+## (Donny Wals. Mastering iOS 12 Programming. Third Edition. Build professional-grade iOS applications with Swift and Xcode 10., ISBN 978-1-78913-320-2, Copyright © 2018 Packt Publishing)
 
 p.s.
 
