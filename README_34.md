@@ -1,5 +1,5 @@
-## Сорок штрихов о прочитанных(переведённых) книгах. 
-## Штрих тридцать четвёртый. 2020 год.
+### Сорок(и более) штрихов о прочитанных(переведённых) книгах. 
+### Штрих тридцать четвёртый. 2020 год.
 
 # Джесси Гловер. Unity 2018: Проекты дополненной реальности. Постройте четыре иммерсивных и забавных AR-приложения с использованием ARKit, ARCore и Vuforia.
 ## (Jesse Glover. Unity 2018 Augmented Reality Projects. Build four immersive and fun AR applications using ARKit, ARCore, and Vuforia. ISBN 978-1-78883-876-4, Copyright © 2018 Packt Publishing)

@@ -1,5 +1,5 @@
-## Сорок штрихов о прочитанных(переведённых) книгах. 
-## Штрих тридцать пятый. 2020 год.
+### Сорок(и более) штрихов о прочитанных(переведённых) книгах. 
+### Штрих тридцать пятый. 2020 год.
 
 # Майкл Лэнем. Изучите AR-инструментарий ARCore. Основные принципы Google ARCore. Научитесь создавать приложения дополненной реальности для Android, Unity и сети Web с использованием AR-инструментария Google ARCore 1.0.
 ## (Micheal Lanham. Learn ARCore - Fundamentals of Google ARCore. Learn to build augmented reality apps for Android, Unity, and the web with Google ARCore 1.0 ISBN 978-1-78883-040-9, Copyright © 2018 Packt Publishing)
