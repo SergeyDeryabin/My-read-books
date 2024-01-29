@@ -1,9 +1,6 @@
 ### Сорок(и более) штрихов о прочитанных(переведённых) книгах. 
-### Штрих сорок пятый. 2023 год.
+### Штрих сорок седьмой. 2024 год.
 
-# Томас Ньютон, Оскар Вилларрил, Ларс Версполь. Изучение картографии с D3.js 5. Второй выпуск. Постройте ультрасовременные карты и визуализации с помощью JavaScript.
-
-## Thomas Newton, Oscar Villarreal, Lars Verspohl. Learning D3.js 5 Mapping. Second Edition. Build cutting-edge maps and visualizations with JavaScript., ISBN 978-1-78728-017-5, Copyright © 2017 Packt Publishing)
 
 # Джос Дирксен. Изучение Three.js: JavaScript 3D-библиотека для WebGL. Создайте и анимируйте ошеломляющую 3D-графику, используя JavaScript-библиотеку Three.js, с открытым исходным кодом.
 
