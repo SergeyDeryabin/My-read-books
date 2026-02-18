@@ -6,7 +6,7 @@
 
 # Шон Митчелл. **SDL**-разработка игр. Узнайте, как использовать мощь библиотеки **SDL 2.0** для создания удивительных игр на языке программирования **C++**. 
 
-## (Shaun Mitchell. SFML Game Development. Discover how to leverage the power of SDL 2.0 to create awesome games in C++, ISBN 978-1-84969-682-1, Copyright © 2013 Packt Publishing)
+## (Shaun Mitchell. SDL Game Development. Discover how to leverage the power of SDL 2.0 to create awesome games in C++, ISBN 978-1-84969-682-1, Copyright © 2013 Packt Publishing)
 
  
 p.s.
