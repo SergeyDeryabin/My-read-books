@@ -6,8 +6,7 @@
 
 # Роберт Лаганьер. Библиотека OpenCV 3. Разработка приложений машинного зрения. Книга рецептов.Третье издание. Рецепты, чтобы помочь Вам построить приложения машинного зрения, которые максимально используют популярную C++-библиотеку OpenCV 3.
 
-## (Robert Laganiere. OpenCV 3 Computer Vision Application Programming Cookbook. Third Edition. Recipes to help you build computer vision ap-
- plications that make the most of the popular C++ library OpenCV 3, ISBN 978-1-78646-971-7, Copyright © 2017 Packt Publishing)
+## (Robert Laganiere. OpenCV 3 Computer Vision Application Programming Cookbook. Third Edition. Recipes to help you build computer vision applications that make the most of the popular C++ library OpenCV 3, ISBN 978-1-78646-971-7, Copyright © 2017 Packt Publishing)
 
  
 p.s.
@@ -76,7 +75,7 @@ https://github.com/PacktPublishing/OpenCV3-Computer-Vision-Application-Programmi
 
 
 ## Загрузка цветных изображений для этой книги:
-https://static.packt-cdn.com/downloads/OpenCV3Computer- VisionApplicationProgrammingCookbookThirdEdition_ColorImages.pdf
+https://static.packt-cdn.com/downloads/OpenCV3Computer-VisionApplicationProgrammingCookbookThirdEdition_ColorImages.pdf
 
 
 
